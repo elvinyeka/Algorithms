@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610228194 source:/home/elvin/Desktop/Alqoritms/Even and odd numbers/main.c
+	<stdio.h>
+	<stdlib.h>
+

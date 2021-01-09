@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610198899 source:/home/elvin/Desktop/Alqoritms/Median-Number/main.c
+	<stdio.h>
+	<stdlib.h>
+

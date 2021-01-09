@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610199891 source:/home/elvin/Desktop/Alqoritms/Sum-of-Squares/main.c
+	<stdio.h>
+	<stdlib.h>
+
