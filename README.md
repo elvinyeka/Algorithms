@@ -79,17 +79,16 @@ Print the area of rectangle.
 
 --- 
 
-## Discount
+## 8. Discount
 In the electronics supermarket, according to TV commercials, there is a system of discounts: of the two purchased goods, only the cost of more expensive goods is paid in full, and the other is provided free of charge. What amount is enough to pay for the purchase of three goods, if you know the price of each.  
 **Input**  
 Three natural numbers a, b, c - prices of three goods (1 ≤ a, b, c ≤ 10000).  
 **Output**  
 Purchase price.
 [Discount](https://www.e-olymp.com/en/contests/19183/problems/205778)
-
 ---
 
-##Tourist  
+## 9. Tourist  
 John is going to a tourist meeting of pupils in his school. In his class he was made responsible for the tents. At home he found 3 tents: the first one weighs a1 kilograms and accommodates b1 people, the second tent weighs a2 kilograms and accommodates b2 people, the third tent weighs a3 kilograms and accommodates b3 people.  
 There are k pupils in John's class. Find out if John can choose tents such that all people can fit in them. Take into account that the selected tents should weigh no more than w kilograms in total.  
 **Input**  
