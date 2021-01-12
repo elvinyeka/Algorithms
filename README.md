@@ -96,6 +96,7 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 The first line contains two integers k and w (1 ≤ k ≤ 15, 1 ≤ w ≤ 30). The second line contains six integers: a1, b1, a2, b2, a3, b3 (1 ≤ a1, a2, a3 ≤ 10, 1 ≤ b1, b2, b3 ≤ 15).  
 **Output**  
 Print YES if it is possible to choose tents as desired, and NO otherwise.  
+
 [Tourist](https://www.e-olymp.com/en/contests/19183/problems/205774)
 
 ---
