@@ -79,12 +79,13 @@ Print the area of rectangle.
 
 --- 
 
-## 8. Discount
+## 8. Discount  
 In the electronics supermarket, according to TV commercials, there is a system of discounts: of the two purchased goods, only the cost of more expensive goods is paid in full, and the other is provided free of charge. What amount is enough to pay for the purchase of three goods, if you know the price of each.  
 **Input**  
 Three natural numbers a, b, c - prices of three goods (1 ≤ a, b, c ≤ 10000).  
 **Output**  
-Purchase price.
+Purchase price.  
+
 [Discount](https://www.e-olymp.com/en/contests/19183/problems/205778)
 ---
 
@@ -94,7 +95,7 @@ There are k pupils in John's class. Find out if John can choose tents such that 
 **Input**  
 The first line contains two integers k and w (1 ≤ k ≤ 15, 1 ≤ w ≤ 30). The second line contains six integers: a1, b1, a2, b2, a3, b3 (1 ≤ a1, a2, a3 ≤ 10, 1 ≤ b1, b2, b3 ≤ 15).  
 **Output**  
-Print YES if it is possible to choose tents as desired, and NO otherwise.
+Print YES if it is possible to choose tents as desired, and NO otherwise.  
 [Tourist](https://www.e-olymp.com/en/contests/19183/problems/205774)
 
 ---
