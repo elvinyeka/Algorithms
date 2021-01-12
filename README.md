@@ -87,6 +87,7 @@ Three natural numbers a, b, c - prices of three goods (1 ≤ a, b, c ≤ 10000).
 Purchase price.  
 
 [Discount](https://www.e-olymp.com/en/contests/19183/problems/205778)
+
 ---
 
 ## 9. Tourist  
